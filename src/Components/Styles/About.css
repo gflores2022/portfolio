@@ -1,0 +1,32 @@
+body{
+    font-style: Times New Roman, serif;
+    font-size: 20px;
+}
+.imageBorder {
+    border: 1px solid;
+    align-items: center;
+}
+
+.imgsize {
+    width: 100%;
+}
+
+.myBold:hover{
+    color:darkgreen;
+}
+
+.cardShadow{
+    padding: 100px;
+    box-shadow: 5px 10px black;
+}
+
+.cardContent-bg{
+    /* background-color: mintcream; */
+
+}
+
+.starBg{
+    color: #d9bd21;
+}
+
+
